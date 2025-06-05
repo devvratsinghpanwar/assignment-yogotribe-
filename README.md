@@ -67,5 +67,5 @@ curl "http://localhost:3001/is-prime?number=4"
 # Output: {"number":4,"isPrime":false}
 ```
 ## author
-### Devvrat Singh Panwar
+### Devvrat Singh Panwar.
 
